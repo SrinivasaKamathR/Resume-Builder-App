@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import  { useEffect, useState } from "react";
 import AppContext from "./AppContext";
 import questionsArray from "./constants/questionsArray";
 import Questions from "./components/Questions";
